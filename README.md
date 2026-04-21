@@ -4,4 +4,4 @@
 **Ciclo Formativo:**  ASIR
 
 ## Sobre mí
-Me encanta cacharrear con ordenadores, los videojuegos y el balonmano
+Soy Ruben, 35 años. Nacido en Leganes.
