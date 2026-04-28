@@ -1,3 +1,5 @@
 V1.0 Versión inicial del proyecto
 
 V1.1 Nueva funcionalidad añadida
+
+V1.2 Corrección de errores menores
